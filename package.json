@@ -85,8 +85,5 @@
     "*.{hpp,cpp}": [
       "clang-format -i -style=file"
     ]
-  },
-  "engines": {
-    "node": ">= 10.23.1 <13.0.0"
   }
 }
